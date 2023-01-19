@@ -1,0 +1,163 @@
+@media (min-width: 1200px) { 
+
+}
+  
+    
+  
+
+@media(min-width:992px) and (max-width:1199px) {
+
+  
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    
+    
+}
+
+@media(min-width:300px) and (max-width:767px) {
+
+
+
+
+
+    footer{
+        text-align: center !important;
+    }
+     
+    h2 ,h3 h4 {
+        font-size:20px !important;
+    }
+  
+
+    .navbar-light .navbar-toggler {
+        color: #39B9A5 !important;
+        margin-left: 13px;
+border: none;
+}
+.nav-link:hover{
+    color: #454b69 !important; 
+    border-bottom: none !important;
+    -webkit-transition: .5s;
+    transition: all 0.5s ease-in-out;
+}
+ .navbar-nav>.active>a,
+   .navbar-nav>.active>a:focus {
+    color: #454b69 !important; 
+    -webkit-transition: .5s;
+    transition: all 0.5s ease-in-out;
+    border-bottom: none !important;
+
+
+
+}
+
+.navbar-toggler:focus, .navbar-toggler:hover{
+    outline: none;
+}
+.navbar-light .navbar-toggler-icon{
+    background: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFF !important;
+}
+.navbar-toggler-icon i{
+    font-size: 30px;
+    box-shadow: 1px 1px 0px rgb(255 255 255 / 10%);
+
+
+}
+.navbar-brand img {
+    max-height: 130px;
+
+}
+
+
+.navbar-nav {
+    background-color: #39B9A5;
+    text-align: center;
+    
+}
+
+.navbar{
+    z-index: 1;
+}
+.about .titel {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 13px;
+    border-radius: 20px;
+    width: 100%;
+    background-color: transparent;
+    box-shadow:  none;
+    text-align: center;
+    color: #39B9A5;}
+
+
+    .about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+.about h2{
+    margin-top:  15px;
+}
+.about ul {
+
+    padding-right: 12% !important;
+
+}
+.about .social .social-link {
+    float: right;
+    text-decoration: none;
+    padding: 6px !important;
+    list-style: none;
+}
+.book-link {
+    background: #FFFF;
+    padding: 15px;
+    text-align: center;
+    color: #39B9A5;
+    transition: all .3s;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.subjects {
+    padding-top: 50px;
+    padding-bottom: 50px;}
+
+    .tables {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .tables .nav-link {
+        font-size: 15px;
+    }
+.tables table tr {
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Cairo', sans-serif;
+    font-size: 12px;
+}
+.table td, .table th {
+    padding: 0.25rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.Author {
+    font-size: 10px;
+}
+    footer p{
+        font-size: 11px;
+    }
+ 
+
+
+
+
+}
